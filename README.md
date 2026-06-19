@@ -4,7 +4,7 @@
 
 ## 功能
 
-- 点击按钮直达系统通知历史设置页，查看撤回内容(注意，这个功能可能只能查看撤回内容的部分内容。)
+- 点击按钮直达系统通知历史设置页
 - 关于页面展示应用信息与使用说明
 
 ## 要求
@@ -63,7 +63,7 @@ app/src/main/java/com/notifhistory/app/
 
 MIT License
 
-Copyright (c) 2026 123zhuzhu61（拿稳时光）
+Copyright (c) 2026 拿稳时光
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
